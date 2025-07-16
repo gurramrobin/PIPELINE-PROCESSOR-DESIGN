@@ -17,3 +17,7 @@ The pipeline consists of the following stages:
 3. **Execute (EX)** – Perform the arithmetic or memory operation.
 4. **Write Back (WB)** – Write the result back to the destination register.
 
+OUTPUT
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/90bf7383-a7d0-41c4-8060-d8aefaf67389" />
+
