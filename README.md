@@ -7,7 +7,7 @@ DOMAIN:VLSI
 DURATION: 6 WEEKS
 MENTOR: NEELA SANTHOSH
 
-# ⚙️ 4-Stage Pipelined Processor – Verilog Project
+# ⚙️ Pipelined Processor
 
 This project implements a basic **4-stage pipelined processor** using Verilog HDL. The processor supports a simplified instruction set with operations like `ADD`, `SUB`, and `LOAD`, mimicking the fundamental architecture of a real-world CPU. The main objective is to demonstrate instruction pipelining, where multiple instructions are overlapped in execution to improve throughput.
 
